@@ -1,4 +1,4 @@
-# 🚀 SheUpFinance: De la Dependencia a la Soberanía
+# <img src="sheup finance logo.png" width="80" valign="middle"> SheUpFinance: Soberanía Financiera desde adolescentes
 
 **SheUpFinance** es una plataforma de educación financiera gamificada diseñada exclusivamente para adolescentes mujeres de secundaria. Nuestro objetivo es romper la brecha de género financiera y empoderar a la próxima generación de mujeres peruanas.
 
